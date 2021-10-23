@@ -16,3 +16,20 @@ exports[`Component de transaçao do extrato O snapshot do component deve permane
   </p>
 </div>
 `;
+
+exports[`Component de transaçao do extrato O snapshot do component deve permanecer sempre o mesmo 2`] = `
+<div
+  class="transacao-container"
+>
+  <p>
+    10/08/2020
+  </p>
+  <p>
+    saque
+  </p>
+  <p>
+    R$ 
+    20.00
+  </p>
+</div>
+`;
